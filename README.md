@@ -2,7 +2,7 @@
 summary: "Submit your GitHub profile URL to this assignment so I have a record of it—and for marks."
 time: "3 minutes"
 deliverables: "URL on Canvas"
-submit: "https://algonquin.instructure.com/courses/822859/assignments/7419127"
+submit: "https://algonquin.instructure.com/courses/847181/assignments/7464282"
 ---
 
 # Submit your GitHub account
